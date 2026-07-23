@@ -1,0 +1,2 @@
+# torch_minimize
+pytorchによる連続実数値非線形関数最適化のモジュール
